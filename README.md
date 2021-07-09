@@ -1,5 +1,4 @@
-## Hey humans 👋
-![](https://komarev.com/ghpvc/?username=muammarahlnn)  
+## Hey peeps 👋  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=muammarahlnn&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/muammarahlnn/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muammarahlnn&layout=compact&langs_count=5&theme=tokyonight)
 <!--
